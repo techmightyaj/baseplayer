@@ -121,8 +121,8 @@
 
 
     <!-- Admob -->
-    <string name="banner_1">ca-app-pub-7549032521180309/6763972675</string>
-    <string name="banner_2">ca-app-pub-7549032521180309/9438237477</string>
-    <string name="interstitial_full_screen_1">ca-app-pub-7549032521180309/1914970671</string>
+    <string name="banner_1">ca-app-pub-8369276720624051/6816254521</string>
+    <string name="banner_2">ca-app-pub-8369276720624051/8153386920</string>
+    <string name="interstitial_full_screen_1">ca-app-pub-8369276720624051/9769720920</string>
 
 </resources>
